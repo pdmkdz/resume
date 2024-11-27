@@ -1,6 +1,6 @@
 # MICHELE DEL ZOPPO
-Noordwijk, Netherlands | Dual Citizen: Italy - US
-[michele.delzoppo@gmail.com](mailto:michele.delzoppo@gmail.com) | +31 6 31 2222 51
+Dual Citizen: Italy - US
+[michele.delzoppo@gmail.com](mailto:michele.delzoppo@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/michele-zdel-zoppo-a8791761) | [GitHub](https://github.com/pdmkdz)
 
 ## PROFESSIONAL SUMMARY
@@ -17,7 +17,7 @@ Versatile and innovative data professional with over 10 years of cross-functiona
 ## PROFESSIONAL EXPERIENCE
 
 ### Halliburton | Software Developer & Geophysical Analyst
-*March 2023 – Present | Houston, Texas, United States*
+*March 2023 – Present | Houston, Texas, United States | Remote*
 - Developing Python PyQt5 software applications for Fiber Optics Strain Analytics
 - Implementing data engineering pipeline for SQL and NoSQL databases with PySpark in Databricks (Datalake) and Azure (Cosmos DB)
 - Creating visualizations for automated reporting and active dashboards (Databricks)
@@ -25,7 +25,7 @@ Versatile and innovative data professional with over 10 years of cross-functiona
 - Managing DevOps efforts for efficient project management across multiple projects
 
 ### Google | Search Language Localization Specialist Quality Engineer
-*September 2020 – August 2021 | Texas, United States*
+*September 2020 – August 2021 | Texas, United States | Remote*
 - Conducted comprehensive data analysis and quality assurance for NLP search and machine learning ranking models for localization of media datasets
 - Leveraged Google Cloud Platform tools like BigQuery for data analysis, debugging, and workflow development
 - Implemented data transformation, mining, and statistical analysis using Python in Colab notebooks
