@@ -33,7 +33,7 @@ Versatile and innovative data professional with over 10 years of cross-functiona
 - Managed employee-driven automation initiatives and maintained expertise tracking dashboards
 
 ### Consulate General of Italy | Consular Services Contractor
-*October 2021 – March 2023 | Houston, Texas, United States*
+*October 2021 – March 2023 | Houston, Texas, United States | On-site*
 - Managed RAID data sharing systems and provided IT support daily
 - Developed and maintained software infrastructure for diplomatic mission
 - Ensured compliance with international administrative protocols
